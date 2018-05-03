@@ -1,2 +1,4 @@
 # ReactNativeGraphQLExample
-I said I'd make it.  Here's my GraphQL React Native Example
+I FINALLY DID IT!
+For obvious reasons I put it here:  https://github.com/GantMan/ReactStateMuseum/tree/master/ReactNative/AppSync
+
